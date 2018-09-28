@@ -1,91 +1,91 @@
 let contacts = [
     {
-        name: "Tayyaba Khan",
+        name: "Ayesha",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check"></i>`,
         number: `326764383490934`,
-        email: `tayba1@gmail.com`,
+        email: `ayesha@gmail.com`,
         'chat-message': `So many books, so little time`
     },
 
     {
-        name: "Fatima Khan",
+        name: "Fareena",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check-double double-ticks"></i>`,
         number: `9096893974`,
-        email: `fatima1@gmail.com`,
+        email: `fareena1@gmail.com`,
         'chat-message': `So many books, so little time`
     },
 
     {
-        name: "Alina Khan",
+        name: "Sitara Khan",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-clock"></i>`,
         number: `023152873873890`,
-        email: `alina1@gmail.com`,
+        email: `sitaraa@gmail.com`,
         'chat-message': `So many books, so little time`
     },
 
     {
-        name: "Maria Khan",
+        name: "Anum Awan",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check"></i>`,
         number: `909090909092564656`,
-        email: `maria1@gmail.com`,
+        email: `awananum@gmail.com`,
         'chat-message': `So many books, so little time`
     },
 
     {
-        name: "Amna Khan",
+        name: "Ambreen Mushtaq",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check-double double-ticks"></i>`,
         number: `589849340932`,
-        email: `amnakhan1@gmail.com`,
+        email: `ambreen@gmail.com`,
         'chat-message': `hellow! how are you?`
     },
 
     {
-        name: "Hafsa Khan",
+        name: "Saira Ashraf",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-clock"></i>`,
         number: `03332228726`,
-        email: `hafsa1@gmail.com`,
+        email: `saira123@gmail.com`,
         'chat-message': `hellow! how are you?`
     },
 
     {
-        name: "Rabbiya Khan",
+        name: "Hira Abbasi",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check"></i>`,
         number: `987329830203232`,
-        email: `rabi.kh@gmail.com`,
+        email: `abbash@gmail.com`,
         'chat-message': `hellow! how are you?`
     },
 
     {
-        name: "Lyba Khan",
+        name: "Bailla",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-check-double double-ticks"></i>`,
         number: `02146732930920`,
-        email: `lyba1@gmail.com`,
+        email: `baila@gmail.com`,
         'chat-message': `hellow! how are you?`
     },
 
     {
-        name: "marium Khan",
+        name: "Farwa Ali",
         imgURL: "gh.jpg",
         message: "blah blah blah blah blah bl...",
         icon: `<i class="fas fa-clock"></i>`,
         number: `3732899290091`,
-        email: `marium1@gmail.com`,
+        email: `fari@gmail.com`,
         'chat-message': `hellow! how are you?`
     }
 ]
