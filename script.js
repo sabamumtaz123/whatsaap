@@ -95,7 +95,7 @@ function initialize() {
 
     for (let i = 0; i < contacts.length; i++) {
         contactList.innerHTML += `<div class="chats-list-item" onclick="showChat(${i})">
-        <div class="contact-profile-pic" style="background-image: url(images/${contacts[i].imgURL});">
+        <div class="contact-profile-pic" style="background-image: url(${contacts[i].imgURL});">
         </div>
         <div class="contact-chat-info">
             <div class="name-section">
@@ -116,7 +116,7 @@ function initialize() {
 function showChat(indexNum) {
     document.querySelector("h4").style = `display: none`;
     document.querySelector(".chat-detail").style = `display: flex !important`;
-    document.querySelector(".contact-photo").style["background-image"] = `url(images/${contacts[indexNum].imgURL})`;
+    document.querySelector(".contact-photo").style["background-image"] = `url(${contacts[indexNum].imgURL})`;
     document.querySelector(".contact-name").innerHTML = contacts[indexNum].name;
     document.querySelector(".contact-number").innerHTML = `<span class="dial-icon"><i class="fas fa-phone"></i></span> ${contacts[indexNum].number}`;
     document.querySelector(".contact-email").innerHTML = `<span class="email-icon"><i class="far fa-envelope"></i></span> ${contacts[indexNum].email}`;
